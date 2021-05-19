@@ -10,7 +10,7 @@ manual_scaling:
   instances: 1
 
 endpoints_api_service:
-  name: default-dot-PROJECT_ID.appspot.com
+  name: default-dot-serving-a-ml-model-in.appspot.com
   config_id: CONFIG_ID
 
 env_variables:
