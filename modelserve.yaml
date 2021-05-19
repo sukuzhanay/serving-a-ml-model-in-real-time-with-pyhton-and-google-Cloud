@@ -1,5 +1,9 @@
 # https://console.cloud.google.com/endpoints/api/modelserve-dot-serving-a-ml-model-in.appspot.com/overview?project=serving-a-ml-model-in
 # gcloud endpoints services deploy modelserve.yaml
+# gcloud endpoints configs list --service="modelserve-dot-serving-a-ml-model-in.appspot.com"
+#gcloud endpoints configs list --service="modelserve-dot-serving-a-ml-model-in.appspot.com"
+
+
 swagger: "2.0"
 info:
   title: "modelserve"
